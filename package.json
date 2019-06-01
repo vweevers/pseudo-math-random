@@ -1,0 +1,32 @@
+{
+  "name": "pseudo-math-random",
+  "version": "0.0.0",
+  "description": "Same algorithm as Math.random but with a custom seed",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "xorshift": "~1.1.1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "math-random-seed": "^2.0.0",
+    "standard": "^12.0.1",
+    "tape": "^4.10.2"
+  },
+  "keywords": [
+    "math",
+    "number",
+    "prng",
+    "random",
+    "xorshift"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": "vweevers/pseudo-math-random",
+  "bugs": "https://github.com/vweevers/pseudo-math-random/issues",
+  "homepage": "https://github.com/vweevers/pseudo-math-random"
+}
