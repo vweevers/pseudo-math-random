@@ -7,6 +7,9 @@
   "scripts": {
     "test": "standard && node test"
   },
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "xorshift": "~1.1.1"
   },
