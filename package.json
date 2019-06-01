@@ -1,6 +1,6 @@
 {
   "name": "pseudo-math-random",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Same algorithm as Math.random but with a custom seed",
   "license": "MIT",
   "author": "Vincent Weevers",
